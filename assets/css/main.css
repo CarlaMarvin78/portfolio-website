@@ -24,6 +24,7 @@ section, summary, time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;}
+	
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -80,12 +81,14 @@ input, select, textarea {
 
 	body {
 		-ms-overflow-style: scrollbar;
+		
 	}
 
 	@media screen and (max-width: 480px) {
 
 		html, body {
 			min-width: 320px;
+			
 		}
 
 	}
@@ -152,7 +155,7 @@ input, select, textarea {
 		}
 
 	body {
-		background-color: #ffffff;
+		background-color: seashell;
 		color: #000000;
 	}
 
